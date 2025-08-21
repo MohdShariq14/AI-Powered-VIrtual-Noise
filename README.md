@@ -116,5 +116,3 @@ Pull requests are welcome! If you’d like to add new features (e.g., more gases
 This project is licensed under the **MIT License** – free to use and modify.
 
 ---
-
-👉 Would you like me to **add diagrams and example output screenshots** to make this README more visual (like a workflow diagram of sensor → model → prediction)?
