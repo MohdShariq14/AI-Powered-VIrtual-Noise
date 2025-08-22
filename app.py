@@ -13,6 +13,7 @@ app = Flask(__name__)
 # model = joblib.load('../model.pkl')  # Adjust path as needed
 model = joblib.load('D:/aIvIRTUALnOSE/model.pkl')
 
+
 @app.route('/')
 def home():
     return render_template('index.html')  # This will render the HTML frontend
@@ -35,3 +36,4 @@ def predict():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
