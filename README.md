@@ -27,6 +27,7 @@ cd AI_Power_Virtual_Nose
 
 ### 2. Create Virtual Environment (optional but recommended)
 
+
 ```bash
 python -m venv venv
 source venv/bin/activate   # Linux / macOS
