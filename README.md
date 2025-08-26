@@ -16,6 +16,7 @@ An **AI-powered system** that simulates the human nose by detecting and classify
 
 ---
 
+
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
