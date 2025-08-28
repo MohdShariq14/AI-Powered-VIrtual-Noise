@@ -8,6 +8,7 @@ An **AI-powered system** that simulates the human nose by detecting and classify
 
 ## 📌 Features
 
+
 * Simulates human-like smell detection.
 * Works with real MQ-series sensors or simulated data.
 * Machine learning model for odor classification.
