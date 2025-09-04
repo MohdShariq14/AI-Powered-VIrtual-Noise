@@ -22,6 +22,7 @@ An **AI-powered system** that simulates the human nose by detecting and classify
 
 ### 1. Clone the Repository
 
+
 ```bash
 git clone https://github.com/Shariq-14/AI_Power_Virtual_Nose.git
 cd AI_Power_Virtual_Nose
